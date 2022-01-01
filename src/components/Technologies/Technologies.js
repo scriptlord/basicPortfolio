@@ -12,7 +12,7 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       These are the technologies I use for now: HTML 5 | CSS 3 | Docker |
-      Javascript ES6 | TypeScript | GitHUb | Node.js | Express.js | APIs |
+      Javascript ES6 | TypeScript | GitHub | Node.js | Express.js | APIs |
       MongoDB | React | PostGRES (SQL)
     </SectionText>
     <List>
@@ -22,7 +22,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            HTML5, CSS3, JavaScript, React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and Databases
+            Node.js, TypeScript, Express.js, Docker and Databases(PostGRES & MongoDB)
           </ListParagraph>
         </ListContainer>
       </ListItem>

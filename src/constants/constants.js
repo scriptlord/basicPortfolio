@@ -61,7 +61,7 @@ export const TimeLineData = [
   { year: '2019', text: 'Volunteered to manage an online tech community', },
   { year: 'Mid 2020', text: 'Started to learn HTML, CSS and JavaScript', },
   { year: 'Early 2021', text: 'Volunteered as a non-technical Developer Advocate for a tech community', },
-  { year: 'Mid 2021', text: 'Joined Decagon Software Developer Bootcamp', },
+  { year: 'Mid 2021', text: 'Joined Decagon Software Developer Bootcamp to get trained as a NodeJS Developer', },
 ];
 
 export const data = [
